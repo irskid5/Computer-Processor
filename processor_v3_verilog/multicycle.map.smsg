@@ -1,0 +1,6 @@
+Info (10281): Verilog HDL Declaration information at multicycle.v(38): object "HEX5" differs only in case from object "hex5" in the same scope File: D:/Desktop/ECE352_Project_2017/processor_v3_verilog/multicycle.v Line: 38
+Info (10281): Verilog HDL Declaration information at multicycle.v(38): object "HEX4" differs only in case from object "hex4" in the same scope File: D:/Desktop/ECE352_Project_2017/processor_v3_verilog/multicycle.v Line: 38
+Info (10281): Verilog HDL Declaration information at multicycle.v(37): object "HEX3" differs only in case from object "hex3" in the same scope File: D:/Desktop/ECE352_Project_2017/processor_v3_verilog/multicycle.v Line: 37
+Info (10281): Verilog HDL Declaration information at multicycle.v(37): object "HEX2" differs only in case from object "hex2" in the same scope File: D:/Desktop/ECE352_Project_2017/processor_v3_verilog/multicycle.v Line: 37
+Info (10281): Verilog HDL Declaration information at multicycle.v(37): object "HEX1" differs only in case from object "hex1" in the same scope File: D:/Desktop/ECE352_Project_2017/processor_v3_verilog/multicycle.v Line: 37
+Info (10281): Verilog HDL Declaration information at multicycle.v(37): object "HEX0" differs only in case from object "hex0" in the same scope File: D:/Desktop/ECE352_Project_2017/processor_v3_verilog/multicycle.v Line: 37

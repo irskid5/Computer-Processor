@@ -1,0 +1,224 @@
+cd
+cd projects/altera/ECE352_2016/ECE352_Project/processor_v3_verilog
+do compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work multicycle.v 
+# -- Compiling module multicycle
+# 
+# Top level modules:
+# 	multicycle
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work mux2to1_8bit.v 
+# -- Compiling module mux2to1_8bit
+# 
+# Top level modules:
+# 	mux2to1_8bit
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work mux2to1_2bit.v 
+# -- Compiling module mux2to1_2bit
+# 
+# Top level modules:
+# 	mux2to1_2bit
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work mux5to1_8bit.v 
+# -- Compiling module mux5to1_8bit
+# 
+# Top level modules:
+# 	mux5to1_8bit
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work memory.v 
+# -- Compiling module memory
+# 
+# Top level modules:
+# 	memory
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work DualMem.v 
+# -- Compiling module DualMem
+# 
+# Top level modules:
+# 	DualMem
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work DataMemory.v 
+# -- Compiling module DataMemory
+# 
+# Top level modules:
+# 	DataMemory
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work register_8bit.v 
+# -- Compiling module register_8bit
+# 
+# Top level modules:
+# 	register_8bit
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work ALU.v 
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work RF.v 
+# -- Compiling module RF
+# 
+# Top level modules:
+# 	RF
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work extend.v 
+# -- Compiling module zExtend
+# -- Compiling module sExtend
+# 
+# Top level modules:
+# 	zExtend
+# 	sExtend
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work HEX.v 
+# -- Compiling module chooseHEXs
+# -- Compiling module HEXs
+# -- Compiling module HEX
+# 
+# Top level modules:
+# 	chooseHEXs
+# 	HEXs
+# End time: 21:35:49 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:49 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work FSM.v 
+# -- Compiling module FSM
+# 
+# Top level modules:
+# 	FSM
+# End time: 21:35:50 on Nov 09,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 21:35:50 on Nov 09,2016
+# vlog -reportprogress 300 -vlog01compat -work work multicycle_tb.v 
+# -- Compiling module multicycle_tb
+# 
+# Top level modules:
+# 	multicycle_tb
+# End time: 21:35:50 on Nov 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+do simulate.do data.mif.mem
+# vsim -L altera_mf_ver -L lpm_ver multicycle_tb 
+# Start time: 21:35:59 on Nov 09,2016
+# Loading work.multicycle_tb
+# Loading work.multicycle
+# Loading work.HEXs
+# Loading work.HEX
+# Loading work.FSM
+# Loading work.memory
+# Loading work.DataMemory
+# Loading altera_mf_ver.altsyncram
+# Loading work.mux2to1_8bit
+# Loading work.ALU
+# Loading work.RF
+# Loading work.register_8bit
+# Loading work.mux2to1_2bit
+# Loading work.mux5to1_8bit
+# Loading work.sExtend
+# Loading work.zExtend
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3015) multicycle_tb.v(22): [PCDPC] - Port size (5) does not match connection size (2) for port 'SW'. The port definition is at: multicycle.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /multicycle_tb/DUT File: multicycle.v
+do wave.do
+run 1000 ns
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+stop
+
+do simulate.do data.mif.mem
+# End time: 21:37:58 on Nov 09,2016, Elapsed time: 0:01:59
+# Errors: 0, Warnings: 2
+# vsim -L altera_mf_ver -L lpm_ver multicycle_tb 
+# Start time: 21:37:58 on Nov 09,2016
+# Loading work.multicycle_tb
+# Loading work.multicycle
+# Loading work.HEXs
+# Loading work.HEX
+# Loading work.FSM
+# Loading work.memory
+# Loading work.DataMemory
+# Loading altera_mf_ver.altsyncram
+# Loading work.mux2to1_8bit
+# Loading work.ALU
+# Loading work.RF
+# Loading work.register_8bit
+# Loading work.mux2to1_2bit
+# Loading work.mux5to1_8bit
+# Loading work.sExtend
+# Loading work.zExtend
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3015) multicycle_tb.v(22): [PCDPC] - Port size (5) does not match connection size (2) for port 'SW'. The port definition is at: multicycle.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /multicycle_tb/DUT File: multicycle.v
+do wave.do
+run 1000 ns
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+
+stop
+do simulate.do data.mif.mem
+# End time: 21:42:10 on Nov 09,2016, Elapsed time: 0:04:12
+# Errors: 0, Warnings: 2
+# vsim -L altera_mf_ver -L lpm_ver multicycle_tb 
+# Start time: 21:42:10 on Nov 09,2016
+# Loading work.multicycle_tb
+# Loading work.multicycle
+# Loading work.HEXs
+# Loading work.HEX
+# Loading work.FSM
+# Loading work.memory
+# Loading work.DataMemory
+# Loading altera_mf_ver.altsyncram
+# Loading work.mux2to1_8bit
+# Loading work.ALU
+# Loading work.RF
+# Loading work.register_8bit
+# Loading work.mux2to1_2bit
+# Loading work.mux5to1_8bit
+# Loading work.sExtend
+# Loading work.zExtend
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3015) multicycle_tb.v(22): [PCDPC] - Port size (5) does not match connection size (2) for port 'SW'. The port definition is at: multicycle.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /multicycle_tb/DUT File: multicycle.v
+do wave.do
+run 1000 ns
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
